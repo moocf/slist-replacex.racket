@@ -5,5 +5,7 @@ Returns s-list with all occurrences of s1 replaced with s2 (see EOPL).
 
 See [main.rkt] for code.
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/slist-replacex.racket)
+
 [Principles of Programming Languages]: https://github.com/iiithf/principles-of-programming-languages
 [main.rkt]: main.rkt
